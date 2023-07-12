@@ -1,0 +1,27 @@
+div {
+    display: inline-block;
+    width: 40%;
+  }
+
+  p {
+    font-size: 2em;
+  }
+
+  .cat {
+    background-color: aquamarine;
+    float: left;
+  }
+
+  .dog {
+    background-color: coral;
+    float: right;
+  }
+
+  footer {
+    text-align: center;
+    background-color: blueviolet;
+    clear: both;/*This allow the footer9The purple text) to come down*/
+  }
+  img{
+    float: left;  /* This allow both images to fit into the text*/
+  }
