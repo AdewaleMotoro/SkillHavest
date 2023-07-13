@@ -1,0 +1,26 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="./style.css">
+<body>
+    
+</body>
+</html>
+
+<div class="Moto">
+
+<div class="Java">Skill harvest</div>
+<div class="Java">Motorola</div>
+<div class="Java">Samsung</div>
+<div class="Java">Iphone</div>
+<div class="Java">Tecno</div>
+<div class="Java">Camon</div>
+
+
+</div>
