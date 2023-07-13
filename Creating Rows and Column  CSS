@@ -1,0 +1,21 @@
+
+
+
+.Moto{
+    display: grid;
+    grid-row: 1fr 2fr;
+    grid-template-columns: 1fr 2fr;
+   
+    
+    }
+    
+    .Java{
+        
+    font-size: 2rem;
+    background-color:#0E2954 ;
+    border: 5px solid #84A7A1;
+    color: antiquewhite;
+    }
+    
+
+    
